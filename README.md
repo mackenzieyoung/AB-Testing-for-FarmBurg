@@ -1,12 +1,12 @@
 # AB-Testing-for-FarmBurg
 
 ## Term definitions:
-•	Linked Lists
+**Linked Lists**
 
-•	Stacks
+Stacks
 
-•	Hash Maps
+Hash Maps
 
-•	Trees
+Trees
 
-•	Heaps
+Heaps
