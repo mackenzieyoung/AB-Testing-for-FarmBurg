@@ -1,7 +1,11 @@
 # AB-Testing-for-FarmBurg
 
-•	Linked Lists \newline
+•	Linked Lists
+
 •	Stacks
+
 •	Hash Maps
+
 •	Trees
+
 •	Heaps
