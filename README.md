@@ -1,7 +1,7 @@
 # AB-Testing-for-FarmBurg
 
 ## Term definitions:
-**Linked Lists** are a data structure in which each element points to the next. Each element of a linked list contains two items -- a value (for example, an integer) and a pointer to the next element. Elements can be inserted or removed from any position in the lsit.
+**Linked Lists** are a data structure in which each element points to the next. Each element of a linked list contains two items – a value (for example, an integer) and a pointer to the next element. Elements can be inserted or removed from any position in the lsit.
 
 **Stacks** are a data structure in which elements can either be pushed or popped. When an element is pushed, it is added to the top of the stack, and when it is popped, it is removed from the top of the stack. Unlike a linked list, elements can only be added or removed from the top of the stack.
 
