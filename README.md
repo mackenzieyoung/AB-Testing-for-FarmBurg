@@ -1,5 +1,6 @@
 # AB-Testing-for-FarmBurg
 
+## Term definitions:
 •	Linked Lists
 
 •	Stacks
