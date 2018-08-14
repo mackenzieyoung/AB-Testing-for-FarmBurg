@@ -1,12 +1,12 @@
 # AB-Testing-for-FarmBurg
 
 ## Term definitions:
-**Linked Lists**
+**Linked Lists** are lists in which each element points to the next. 
 
-Stacks
+**Stacks**
 
-Hash Maps
+**Hash Maps**
 
-Trees
+**Trees**
 
-Heaps
+**Heaps**
